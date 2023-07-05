@@ -7,7 +7,10 @@ Follow the steps below to successfully complete the assignment and showcase your
 1. Clone the repository provided (do **not** fork it).
 2. Work through each step, starting with Step 1.
 3. Commit your code at the end of each step to track your progress.
+4. Publish it on your GitHub (or Gitlab, or whatever...)
+5. Send us the link and tell us approximatively how much time you spent on this assignment
 
+Note that the test should take between 1 to 3 hours to complete.
 
 
 ## Guidelines for Success
@@ -18,12 +21,12 @@ To ensure success and demonstrate your abilities, please adhere to the following
 - Each step builds upon the previous one, allowing you to reuse code when applicable. However, as you progress, focus on refactoring your code to make it maintainable, clean, robust, and reliable.
 - Use Python (3.9) to write your code.
 - Write your program within the appropriate level directory.
-- Do not modify the following scripts: application_generator.py and application_file_generator.py.
+- Do not modify the following scripts: `application_generator.py` and `application_file_generator.py`.
 
 
 ## Step 1 : Transforming Application Logs
 
-- Run the application_file_generator.py program to generate application logs. The logs will be saved in the `./applications/` folder. Each file represents one application and follows this format:
+- Run the `application_file_generator.py` program to generate application logs. The logs will be saved in the `./applications/` folder. Each file represents one application and follows this format:
 
 `id=0a0bd4d3-05cf-4912-b6ee-40d79a4f9901|therapeutic_area=oncology|created_at=2023-07-26 18:30:07|site={'name': 'CHU Bordeaux', 'site_category': 'academic'}`
 
@@ -44,7 +47,7 @@ To ensure success and demonstrate your abilities, please adhere to the following
 ## Step 2 : Storing Application Logs in a MySQL Database
 
 - Instead of writing the logs to files, we want to store them in a MySQL database.
-- Use the following table schema to create a table named application:
+- Use the following table schema to create a table named `application`:
 
 ```
 CREATE TABLE application(
