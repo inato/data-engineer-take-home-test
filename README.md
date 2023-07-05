@@ -68,7 +68,15 @@ Based on the previously created table, you need to answer the following question
 
 Write your SQL queries to answer these questions in the level_3/queries.sql file.
 
-### Data details
+Note:
+- If you haven't completed step 2, you can use the data stored in `./sample/applications_sample.csv`.
+- There is no requirement to set up a database; we will solely focus on the SQL code.
+
+
+Enjoy the assignment and good luck!
+
+
+## Data details
 
 **Trial applications on Inato:**
 
@@ -77,7 +85,3 @@ Write your SQL queries to answer these questions in the level_3/queries.sql file
 - `created_at`: timestamp when the study application started
 - `site_name`: name of the site who took part in the trial
 - `site_category`: category the site who took part in the trial
-
-Note: If you haven't completed step 2, you can use the data stored in `./sample/applications_sample.csv`. There is no requirement to set up a database; we will solely focus on the SQL code.
-
-Enjoy the assignment and good luck!
