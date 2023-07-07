@@ -10,7 +10,7 @@ Follow the steps below to successfully complete the assignment and showcase your
 4. Publish it on your GitHub (or Gitlab, or whatever...)
 5. Send us the link and tell us approximatively how much time you spent on this assignment
 
-Note that the test should take between 1 to 3 hours to complete.
+Note that the test should take no more than 3 hours to complete.
 
 
 ## Guidelines for Success
