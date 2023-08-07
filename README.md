@@ -10,7 +10,8 @@ Follow the steps below to successfully complete the assignment and showcase your
 4. Publish it on your GitHub (or Gitlab, or whatever...)
 5. Send us the link and tell us approximatively how much time you spent on this assignment
 
-Note that the test should take no more than 3 hours to complete.
+Note that the test should take no more than 3 hours to complete. 
+The test is simple enough intentionally so you can spend time on making it production ready.
 
 
 ## Guidelines for Success
@@ -19,6 +20,7 @@ To ensure success and demonstrate your abilities, please adhere to the following
 
 - Begin with a simple approach to complete the initial steps.
 - Each step builds upon the previous one, allowing you to reuse code when applicable. However, as you progress, focus on refactoring your code to make it maintainable, clean, robust, and reliable.
+- The last state of your code should be production ready
 - Use Python (3.9) to write your code.
 - Write your program within the appropriate level directory.
 - Do not modify the following scripts: `application_generator.py` and `application_file_generator.py`.
