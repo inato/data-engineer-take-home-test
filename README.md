@@ -20,7 +20,7 @@ To ensure success and demonstrate your abilities, please adhere to the following
 
 - Begin with a simple approach to complete the initial steps.
 - Each step builds upon the previous one, allowing you to reuse code when applicable. However, as you progress, focus on refactoring your code to make it maintainable, clean, robust, and reliable.
-- The last state of your code should be production ready
+- The last state of your code should be clean and ready to be reviewed by peers in a real-world situation
 - Use Python (3.9) to write your code.
 - Write your program within the appropriate level directory.
 - Do not modify the following scripts: `application_generator.py` and `application_file_generator.py`.
